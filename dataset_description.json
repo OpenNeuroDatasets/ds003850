@@ -1,7 +1,9 @@
 {
     "Name": "Next Gen VASO data ISMRM 2021 ",
     "BIDSVersion": "1.2.1",
-    "Authors": [],
+    "Authors": [
+        "Renzo Huber (uploader)"
+    ],
     "Acknowledgements": "For full authorships see absract ISMRM https://layerfmri.page.link/ISMRM2022_nextgen",
     "License": "CC0",
     "DatasetDOI": ""
