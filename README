@@ -1,8 +1,8 @@
-# CMRR Layer fMRI Hands on tutorial
+# sub 0.1 micro liter dataset from the Next Gen Berkeley scanner.
 
-This dataset consists of one mani participant from one session. There are other cases included for reference.
-The purpose of this dataset it to serve as an educational example for the Minnesota Workshop 2019 
+This dataset is shared as an example dataset to be accompanied with the 2022 ISMRM abstract.
+https://layerfmri.page.link/ISMRM2022_nextgen
 
-The different runs refer to high-resolution EPI acquired at the 7T from Scanexus in Maastricht and the 7T from FMRIF at NIH. 
-The protocol pdfs are here: https://github.com/layerfMRI/Sequence_Github/tree/master/CMRR_training_scann_protocol_pdfs
+Full sequence parameter protocols are here: https://github.com/layerfMRI/Sequence_Github/tree/master/Terra_protocolls
+
 
